@@ -1,0 +1,5 @@
+bat
+ball
+gloves
+helmet
+stumps
